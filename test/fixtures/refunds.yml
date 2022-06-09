@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shop: one
+  amount_cents: 1
+  amount_currency: MyString
+  status: MyString
+  card_type: MyString
+
+two:
+  shop: two
+  amount_cents: 1
+  amount_currency: MyString
+  status: MyString
+  card_type: MyString

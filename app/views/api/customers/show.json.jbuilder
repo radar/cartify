@@ -1,0 +1,1 @@
+json.(@customer, :id, :name)

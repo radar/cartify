@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shop: one
+  amount_subunit: 1
+  currency: MyString
+
+two:
+  shop: two
+  amount_subunit: 1
+  currency: MyString

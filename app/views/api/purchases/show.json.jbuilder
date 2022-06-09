@@ -1,0 +1,1 @@
+json.(@purchase, :id, :amount)
